@@ -14,9 +14,6 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
-#### The Easy Way
-
-**Watch our Video for Create own Bot** - 👉 https://youtu.be/QkAkSLBgoYw
 
 #### The Hard Way
 
