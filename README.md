@@ -1,5 +1,3 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot) - Clone
----
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 
@@ -30,12 +28,6 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel and Group
-
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
-
 ## Credits, and Thanks to
 
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
