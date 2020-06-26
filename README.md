@@ -10,7 +10,7 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 ### Installation
 
 #### The Easiest Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/sameron/TG-Rename-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/sameron/TG-URL-Uploader)
 
 **upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
 
